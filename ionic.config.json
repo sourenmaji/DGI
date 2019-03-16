@@ -1,0 +1,7 @@
+{
+  "name": "DGI",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
